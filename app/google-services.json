@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "721297742733",
+    "firebase_url": "https://myfunbook-ae3a5-default-rtdb.firebaseio.com",
+    "project_id": "myfunbook-ae3a5",
+    "storage_bucket": "myfunbook-ae3a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721297742733:android:5a9e164e978a14b4913bc4",
+        "android_client_info": {
+          "package_name": "com.example.funbook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzCk2JQgFmP9D67xENO65vq0HI6Sfdnwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
